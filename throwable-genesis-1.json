@@ -1,7 +1,7 @@
 {
     "name": "Apple",
     "description": "Primitive throwing weapon",
-    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "image":"",
     "attributes": [
       {
         "display_type": "number",

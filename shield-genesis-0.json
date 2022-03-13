@@ -1,7 +1,7 @@
 {
     "name": "Leaf Shield",
     "description": "Primitive shield",
-    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "image":"",
     "attributes": [
       {
         "display_type": "number",
