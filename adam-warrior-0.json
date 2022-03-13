@@ -1,0 +1,49 @@
+{
+    "name": "Adam, Apprentice Genesis Warrior",
+    "description": "First civilization warrior, level 0",
+    "image":"ipfs://bafybeidj4nex2ngmrpncs7gwbx5ikbarany3nhmqklhphs4vhcitij2tf4",
+    "properties": [
+      {
+        "trait_type": "Level",
+        "value": 0
+      },
+      {
+        "trait_type": "Civilization",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Warrior"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dash",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jump",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shield Time",
+        "value": 1
+      }
+    ]
+  }

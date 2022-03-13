@@ -1,0 +1,49 @@
+{
+    "name": "Eve, Skilled Genesis Warrior",
+    "description": "First civilization warrior, level 1",
+    "image":"ipfs://bafybeih7fpufdvahdu4bma7bmn26i2s5fcbsf7ljo44i2c2ksefc2itabu",
+    "properties": [
+      {
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Civilization",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Warrior"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 15
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 125
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 1.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dash",
+        "value": 1.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jump",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shield Time",
+        "value": 2
+      }
+    ]
+  }

@@ -1,11 +1,11 @@
 {
-    "name": "Apprentice Rogue",
-    "description": "First civilization rogue, level 0",
-    "image":"",
+    "name": "Eve, Seasoned Genesis Mage",
+    "description": "First civilization mage, level 2",
+    "image":"ipfs://bafybeih7fpufdvahdu4bma7bmn26i2s5fcbsf7ljo44i2c2ksefc2itabu",
     "properties": [
       {
         "trait_type": "Level",
-        "value": 0
+        "value": 2
       },
       {
         "trait_type": "Civilization",
@@ -13,12 +13,12 @@
       },
       {
         "trait_type": "Class",
-        "value": "Rogue"
+        "value": "Mage"
       },
       {
         "display_type": "number",
         "trait_type": "Damage",
-        "value": 10
+        "value": 30
       },
       {
         "display_type": "number",
@@ -28,22 +28,22 @@
       {
         "display_type": "number",
         "trait_type": "Speed",
-        "value": 2
+        "value": 1.5
       },
       {
         "display_type": "number",
         "trait_type": "Dash",
-        "value": 2
+        "value": 1.5
       },
       {
         "display_type": "number",
         "trait_type": "Jump",
-        "value": 2
+        "value": 1.5
       },
       {
         "display_type": "number",
         "trait_type": "Shield Time",
-        "value": 0.5
+        "value": 1.5
       }
     ]
   }

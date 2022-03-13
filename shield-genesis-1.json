@@ -1,7 +1,7 @@
 {
     "name": "Wood Shield",
     "description": "Primitive shield",
-    "image":"",
+    "image":"ipfs://bafybeicdk5f5dtcqqhhm7vixbtbehksq5ha6qyaxdcqvgfn7o5qca7aiki",
     "properties": [
       {
         "display_type": "number",

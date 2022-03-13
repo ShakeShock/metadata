@@ -1,11 +1,11 @@
 {
-    "name": "Seasoned Genesis Warrior",
-    "description": "First civilization warrior, level 2",
-    "image":"",
+    "name": "Adam, Apprentice Genesis Mage",
+    "description": "EveFirst civilization mage, level 0",
+    "image":"ipfs://bafybeidj4nex2ngmrpncs7gwbx5ikbarany3nhmqklhphs4vhcitij2tf4",
     "properties": [
       {
         "trait_type": "Level",
-        "value": 2
+        "value": 0
       },
       {
         "trait_type": "Civilization",
@@ -13,7 +13,7 @@
       },
       {
         "trait_type": "Class",
-        "value": "Warrior"
+        "value": "Mage"
       },
       {
         "display_type": "number",
@@ -23,27 +23,27 @@
       {
         "display_type": "number",
         "trait_type": "Health",
-        "value": 150
+        "value": 50
       },
       {
         "display_type": "number",
         "trait_type": "Speed",
-        "value": 2
+        "value": 1
       },
       {
         "display_type": "number",
         "trait_type": "Dash",
-        "value": 2.5
+        "value": 1
       },
       {
         "display_type": "number",
         "trait_type": "Jump",
-        "value": 3
+        "value": 1
       },
       {
         "display_type": "number",
         "trait_type": "Shield Time",
-        "value": 3
+        "value": 0.5
       }
     ]
   }

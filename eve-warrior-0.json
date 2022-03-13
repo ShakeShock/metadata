@@ -1,11 +1,11 @@
 {
-    "name": "Seasoned Genesis Rogue",
-    "description": "First civilization rogue, level 2",
-    "image":"",
+    "name": "Eve, Apprentice Genesis Warrior",
+    "description": "First civilization warrior, level 0",
+    "image":"ipfs://bafybeih7fpufdvahdu4bma7bmn26i2s5fcbsf7ljo44i2c2ksefc2itabu",
     "properties": [
       {
         "trait_type": "Level",
-        "value": 2
+        "value": 0
       },
       {
         "trait_type": "Civilization",
@@ -13,32 +13,32 @@
       },
       {
         "trait_type": "Class",
-        "value": "Rogue"
+        "value": "Warrior"
       },
       {
         "display_type": "number",
         "trait_type": "Damage",
-        "value": 20
+        "value": 10
       },
       {
         "display_type": "number",
         "trait_type": "Health",
-        "value": 125
+        "value": 100
       },
       {
         "display_type": "number",
         "trait_type": "Speed",
-        "value": 3
+        "value": 1
       },
       {
         "display_type": "number",
         "trait_type": "Dash",
-        "value": 4
+        "value": 1
       },
       {
         "display_type": "number",
         "trait_type": "Jump",
-        "value": 3
+        "value": 1
       },
       {
         "display_type": "number",

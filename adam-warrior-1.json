@@ -1,11 +1,11 @@
 {
-    "name": "Seasoned Genesis Mage",
-    "description": "First civilization mage, level 2",
-    "image":"",
+    "name": "Adam, Skilled Genesis Warrior",
+    "description": "First civilization warrior, level 1",
+    "image":"ipfs://bafybeidj4nex2ngmrpncs7gwbx5ikbarany3nhmqklhphs4vhcitij2tf4",
     "properties": [
       {
         "trait_type": "Level",
-        "value": 2
+        "value": 1
       },
       {
         "trait_type": "Civilization",
@@ -13,17 +13,17 @@
       },
       {
         "trait_type": "Class",
-        "value": "Mage"
+        "value": "Warrior"
       },
       {
         "display_type": "number",
         "trait_type": "Damage",
-        "value": 30
+        "value": 15
       },
       {
         "display_type": "number",
         "trait_type": "Health",
-        "value": 100
+        "value": 125
       },
       {
         "display_type": "number",
@@ -38,12 +38,12 @@
       {
         "display_type": "number",
         "trait_type": "Jump",
-        "value": 1.5
+        "value": 2
       },
       {
         "display_type": "number",
         "trait_type": "Shield Time",
-        "value": 1.5
+        "value": 2
       }
     ]
   }

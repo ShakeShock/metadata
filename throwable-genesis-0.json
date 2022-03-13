@@ -1,7 +1,7 @@
 {
     "name": "Rotten Apple",
     "description": "Primitive throwing weapon",
-    "image":"",
+    "image":"ipfs://bafybeifqf2u6ucdjvrhmol4kwobyyezuqjskfji7beuop2wruq5mgy6nn4",
     "properties": [
       {
         "display_type": "number",
