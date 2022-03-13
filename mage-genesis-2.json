@@ -1,0 +1,49 @@
+{
+    "name": "Seasoned Genesis Mage",
+    "description": "First civilization mage, level 2",
+    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 2
+      },
+      {
+        "trait_type": "Civilization",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Mage"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 30
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 1.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dash",
+        "value": 1.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jump",
+        "value": 1.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shield Time",
+        "value": 1.5
+      }
+    ]
+  }

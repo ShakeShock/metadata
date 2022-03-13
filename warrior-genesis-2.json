@@ -1,0 +1,49 @@
+{
+    "name": "Seasoned Genesis Warrior",
+    "description": "First civilization warrior, level 2",
+    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 2
+      },
+      {
+        "trait_type": "Civilization",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Warrior"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 20
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 150
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dash",
+        "value": 2.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jump",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shield Time",
+        "value": 3
+      }
+    ]
+  }

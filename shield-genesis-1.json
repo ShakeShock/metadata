@@ -1,0 +1,12 @@
+{
+    "name": "Wood Shield",
+    "description": "Primitive shield",
+    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Armour",
+        "value": 20
+      }
+    ]
+}

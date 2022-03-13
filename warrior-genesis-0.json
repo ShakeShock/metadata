@@ -1,0 +1,49 @@
+{
+    "name": "Apprentice Genesis Warrior",
+    "description": "First civilization warrior, level 0",
+    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 0
+      },
+      {
+        "trait_type": "Civilization",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Warrior"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dash",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jump",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shield Time",
+        "value": 1
+      }
+    ]
+  }

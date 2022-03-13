@@ -1,0 +1,49 @@
+{
+    "name": "Skilled Genesis Rogue",
+    "description": "First civilization rogue, level 1",
+    "image":"ipfs://bafkreigvhcwj5kylzistxbusbag7kuaoajjqyzaeie4ufqkonox3tg7gp4",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Civilization",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Rogue"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 15
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 125
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 2.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dash",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jump",
+        "value": 2.5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shield Time",
+        "value": 1
+      }
+    ]
+  }
