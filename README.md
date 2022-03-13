@@ -1,3 +1,3 @@
 # metadata
 
-metadata files for characters
+metadata files for characters and assets
