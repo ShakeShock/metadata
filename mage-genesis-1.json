@@ -2,7 +2,7 @@
     "name": "Skilled Genesis Mage",
     "description": "First civilization mage, level 1",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "trait_type": "Level",
         "value": 1

@@ -2,7 +2,7 @@
     "name": "Seasoned Genesis Rogue",
     "description": "First civilization rogue, level 2",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "trait_type": "Level",
         "value": 2

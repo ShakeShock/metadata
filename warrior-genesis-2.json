@@ -2,7 +2,7 @@
     "name": "Seasoned Genesis Warrior",
     "description": "First civilization warrior, level 2",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "trait_type": "Level",
         "value": 2

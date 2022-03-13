@@ -2,7 +2,7 @@
     "name": "Wood Shield",
     "description": "Primitive shield",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "display_type": "number",
         "trait_type": "Armour",

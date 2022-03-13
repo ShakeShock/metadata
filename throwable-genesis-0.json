@@ -2,7 +2,7 @@
     "name": "Rotten Apple",
     "description": "Primitive throwing weapon",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "display_type": "number",
         "trait_type": "Damage",

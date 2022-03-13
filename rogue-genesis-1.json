@@ -2,7 +2,7 @@
     "name": "Skilled Genesis Rogue",
     "description": "First civilization rogue, level 1",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "trait_type": "Level",
         "value": 1

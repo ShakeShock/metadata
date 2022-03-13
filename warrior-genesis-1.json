@@ -2,7 +2,7 @@
     "name": "Skilled Genesis Warrior",
     "description": "First civilization warrior, level 1",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "trait_type": "Level",
         "value": 1

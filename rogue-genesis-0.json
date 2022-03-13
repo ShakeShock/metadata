@@ -2,7 +2,7 @@
     "name": "Apprentice Rogue",
     "description": "First civilization rogue, level 0",
     "image":"",
-    "attributes": [
+    "properties": [
       {
         "trait_type": "Level",
         "value": 0
